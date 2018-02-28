@@ -1,0 +1,76 @@
+.container
+{
+  background-color:#3d5b99;
+  height: 100%;
+  width: 100%;
+}
+.Heading
+{
+  float: left;
+  padding-top: 30px;
+  width: 100%
+}
+.container-base
+{
+  float: right;
+  padding-top: 5px;
+  width: 50%;
+  height: 100%;
+
+}
+.container-base2
+{
+  float: right;
+  padding-top: 20px;
+  width: 50%;
+  height: 100%;
+
+}
+.new1
+{
+  color:white;
+
+}
+.rightbase
+{
+  float: left;
+  font-size: 1em;
+  height: 570px;
+  font-weight: bold;
+  width:700px ;
+  overflow: scroll;
+
+}
+.intro1
+{
+  float: left;
+  padding-left: 30px;
+  width: 70%;
+}
+.fbbody
+{
+  width: 100%
+  padding-left:10px;
+}
+.img2{
+  float: left;
+  width: 100%
+}
+.body
+{
+  font-size: 100%
+}
+.new
+{
+  font-size: 2em;
+  color: black;
+  float: left;
+  padding-left: 40px;
+}
+.appendhere
+{
+  float:left;
+  align-self: left;
+  width: 100%;
+
+}
